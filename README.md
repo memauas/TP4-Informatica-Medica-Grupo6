@@ -1,4 +1,4 @@
-## TP4-Informatica-Medica-Grupo6
+# TP4-Informatica-Medica-Grupo6
 <p align="center">
   <img src="logo_itba.png" alt="Logo ITBA" width="260">
 </p>
@@ -10,6 +10,7 @@
   <b>Instituto Tecnológico de Buenos Aires (ITBA)</b><br>
   Materia: <b>[Informatica médica]</b><br>
   2.º Cuatrimestre 2026
+</p>
 </p>
 
 ---
@@ -38,42 +39,3 @@ El TP propone diseñar e implementar una base de datos relacional para un centro
 1. **Bases de Datos:** clasificación de la base, modelo conceptual (diagrama entidad-relación en notación de Chen), modelo relacional (notación Crow's foot) y análisis de formas normales.
 2. **SQL:** resolución de 20 consultas sobre la base del centro médico, usando PostgreSQL.
 3. **Manejo de versiones:** uso de Git y GitHub (commits, ramas, merges y Pull Requests) para entregar el trabajo.
-
-# Estructura del repositorio
-
-```
-.
-├── README.md
-├── InfoMed_TP4_RenieriMauasFerreira.md      # Resolución completa de las partes 1 y 2
-├── 01_InfoMed_TP4_RenieriMauasFerreira.sql  # Consigna SQL 1
-├── 02_InfoMed_TP4_RenieriMauasFerreira.sql  # Consigna SQL 2
-├── ...
-├── 20_InfoMed_TP4_RenieriMauasFerreira.sql  # Consigna SQL 20
-└── img/                                   # Logo y capturas de los resultados
-```
-
-> Cada archivo `.sql` contiene la query de la consigna cuyo número figura al comienzo del nombre.
-
-
-# Herramientas utilizadas
-
-- **PostgreSQL** como motor de base de datos
-- **SQL** para las consultas
-- **Git y GitHub** para el control de versiones
-- **Markdown** para la documentación
-
-# Cómo reproducir el trabajo
-
-1. Cargar el script `base_de_datos.sql` (provisto en Campus) en un motor PostgreSQL, por ejemplo [sqliteonline.com](https://sqliteonline.com/) seleccionando **PostgreSQL**.
-2. Ejecutar el script completo **una sola vez**.
-3. Correr cada archivo `.sql` de este repositorio y comparar con las capturas de `InfoMed_TP4_Apellido1Apellido2.md`.
-
-## Resolución
-
-La resolución completa de las partes 1 y 2, con cada query y la imagen de su resultado, está en [`InfoMed_TP4_MauasFerreiraRenieri.md`](InfoMed_TP4_RenieriMauasFerreira.md).
-
----
-
-<p align="center">
-  <sub>ITBA · [Informática Médica] · 2026</sub>
-</p>
