@@ -1,6 +1,6 @@
 ## TP4-Informatica-Medica-Grupo6
 <p align="center">
-  <img src="img/logo_itba.png" alt="Logo ITBA" width="260">
+  <img src="logo_itba.png" alt="Logo ITBA" width="260">
 </p>
 
 <h1 align="center">Trabajo Práctico N°4</h1>
