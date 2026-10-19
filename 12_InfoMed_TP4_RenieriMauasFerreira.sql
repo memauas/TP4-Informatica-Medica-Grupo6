@@ -1,3 +1,4 @@
-SELECT nombre, COUNT (*) as cant_recetas FROM Recetas r
-INNER JOIN Pacientes p ON r.id_paciente = p.id_paciente
-GROUP BY (p.id_paciente);
+SELECT p.nombre, COUNT(r.id_receta) AS cant_recetas 
+FROM Pacientes p
+LEFT JOIN Recetas r ON p.id_paciente = r.id_paciente
+GROUP BY p.id_paciente, p.nombre;
