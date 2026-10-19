@@ -75,5 +75,5 @@ La resolución completa de las partes 1 y 2, con cada query y la imagen de su re
 ---
 
 <p align="center">
-  <sub>ITBA · [NOMBRE DE LA MATERIA] · 2026</sub>
+  <sub>ITBA · [Informática Médica] · 2026</sub>
 </p>
