@@ -20,7 +20,7 @@
 | Nombre y apellido | Usuario de GitHub |
 |---|---|
 | [Melanie Natasha Mauas] | [@memauas](https://github.com/usuario1) |
-| [Mariana Antunes Ferreira] | [@usuario2](https://github.com/usuario2) |
+| [Mariana Antunes Ferreira] | [@mantunesferreira](https://github.com/usuario2) |
 | [Luciana Renieri] | [@lrenieri-arch](https://github.com/usuario3) |
 
 # Docentes
